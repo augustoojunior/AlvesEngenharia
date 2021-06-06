@@ -22,7 +22,7 @@ body {
 }
 
 .photo img {
-    border-radius: 50%;
+/*    border-radius: 50%;*/
     max-width: 250px;
 }
 
