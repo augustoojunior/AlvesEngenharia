@@ -28,7 +28,7 @@ body {
 }
 
 /* PHOTO */
-.img img {
+.img {
 /*    border-radius: 50%;*/
     visibility: hidden;
     max-width: 250px;
