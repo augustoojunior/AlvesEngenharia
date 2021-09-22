@@ -27,6 +27,13 @@ body {
     max-width: 250px;
 }
 
+/* PHOTO */
+.img img {
+/*    border-radius: 50%;*/
+    visibility: hidden;
+    max-width: 250px;
+}
+
 /* TITLE */
 .title h1 {
     font-weight: 800;
